@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Izabele OLiveira de Almeida
+-Profissão: Tester Pleno
+-Cidade: São Bernardo do Campo
+-O que faz nas horas vaga: Assisto series, pratico exercicios.
+-Feedback sobre o curso Qualidade de Software: Até o momento estou gostando, didatica do professor otima e estou adquirindo bastante conhecimento.
+-Feedback sobre a plataforma de estudo da EBAC: Começei a testar a nova plataforma agora, parece ser bem melhor que a anterior.
 -Realizando alteração para o exercicio modulo 10.
 
 Obrigado!!!
